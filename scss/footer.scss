@@ -1,0 +1,15 @@
+footer {
+    background-color: $grey;
+}
+
+footer section {
+    max-width: 1080px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0 12px 0;
+    img {
+        width: 140px;
+    }
+}
